@@ -2,12 +2,12 @@
 
 ## Samurais
 
-### Integrantes
+### Team members
 * Fernanda Rangel 
 * Julio Padilla
 * Ricardo Rechi
 * Gilberto Morales
 * Marco Solorzano
 
-### Descripción
-Análisis de los pedidos en línea de Walmart
+### Description
+Analysis of the on line requests of Walmart in CDMX
