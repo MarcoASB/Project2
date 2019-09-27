@@ -1,6 +1,6 @@
 # Project2
 
-## Samurais :samurai:
+## Samurais 
 
 ### Team members
 * Fernanda Rangel 
