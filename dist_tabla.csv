@@ -1,0 +1,158 @@
+Region,Estado,Nombre,Venta_Promedio,distance_Km
+Bajio,Aguascalientes,Aguascalientes,1399.225474,3.664861546
+Bajio,Aguascalientes,Mahatma Gandhi,1384.341088,3.226853636
+Bajio,Guanajuato,Celaya Irrigacion,1674.72239,2.252202154
+Bajio,Guanajuato,Galerias Las Torres,1329.471782,3.464051628
+Bajio,Guanajuato,Irapuato,1540.595623,2.745548304
+Bajio,Guanajuato,Jardines Del Country,1271.204725,2.993805427
+Bajio,Guanajuato,La Antorcha,1741.449867,3.172511755
+Bajio,Guanajuato,Leon Torres Landa,1329.526803,3.158637909
+Bajio,Guanajuato,Punta Del Este,1456.479216,2.571586762
+Bajio,Queretaro,Av Central,1243.844115,2.51889056
+Bajio,Queretaro,Juriquilla,1597.389285,4.529677839
+Bajio,Queretaro,Plaza De Toros,1383.117393,3.679900141
+Bajio,Queretaro,Poniente Queretaro,1168.284302,3.045095272
+Bajio,Queretaro,Queretaro,1361.544653,3.056315079
+Bajio,San Luis Potosi,Carretera 57,1507.688375,2.751862317
+Bajio,San Luis Potosi,San Luis Potosi,1521.104227,3.244323801
+Bajio,Zacatecas,Zacatecas,1515.062872,2.975418259
+Centro,Distrito Federal,Aeropuerto,1297.230384,3.800120318
+Centro,Distrito Federal,Azcapotzalco,1316.394054,1.968086526
+Centro,Distrito Federal,Balbuena,1440.857212,1.779533692
+Centro,Distrito Federal,Buenavista,1515.043981,2.221819236
+Centro,Distrito Federal,Cuajimalpa,1800.081871,1.617234234
+Centro,Distrito Federal,Cuemanco,1621.008648,2.491111954
+Centro,Distrito Federal,Cuitlahuac,1399.885035,1.865767705
+Centro,Distrito Federal,El Rosario,1397.731653,1.681969881
+Centro,Distrito Federal,Felix Cuevas,1567.246365,1.507817943
+Centro,Distrito Federal,Las Aguilas,1847.077561,2.303394341
+Centro,Distrito Federal,Las Antenas,1402.356663,2.905651801
+Centro,Distrito Federal,Miramontes,1507.578413,2.364085965
+Centro,Distrito Federal,Patio Santa Fe,1947.932739,2.349724534
+Centro,Distrito Federal,Patio Tlalpan,1523.389271,2.082632741
+Centro,Distrito Federal,Periferico Sur,1581.302274,2.983518313
+Centro,Distrito Federal,Plateros,1468.145462,2.511731986
+Centro,Distrito Federal,Plaza Eduardo Molina,1382.676858,2.376145977
+Centro,Distrito Federal,Plaza Oriente,1410.592704,3.00335865
+Centro,Distrito Federal,Portal Centro,1395.785236,2.194508968
+Centro,Distrito Federal,Portal San Angel,1576.516782,2.209734485
+Centro,Distrito Federal,Puerta Tlatelolco,1359.943477,1.295216416
+Centro,Distrito Federal,Taxqueña,1618.935886,2.443817838
+Centro,Distrito Federal,Tepeyac,1403.751343,1.956176593
+Centro,Distrito Federal,Tlahuac,1383.336222,2.7289432
+Centro,Distrito Federal,Tlalpan,1416.184576,1.642512347
+Centro,Distrito Federal,Toreo,1636.363729,2.513392189
+Centro,Distrito Federal,Torres Lindavista,1415.864545,1.769888315
+Centro,Distrito Federal,Universidad,1473.59849,2.274031093
+Centro,Distrito Federal,Villa Coapa,1478.899994,2.448153037
+Centro,Hidalgo,Pachuca,1575.112856,3.964154696
+Centro,Mexico,Av Jesus Del Monte,2166.213718,2.983881553
+Centro,Mexico,Cd Jardin,1302.27829,3.126243583
+Centro,Mexico,Echegaray,1485.175469,2.711514761
+Centro,Mexico,Espacio Esmeralda,1654.873679,2.828964937
+Centro,Mexico,Hiperplaza Texcoco,1936.011138,3.731354164
+Centro,Mexico,Interlomas,2045.411343,2.020081921
+Centro,Mexico,Ixtapaluca,1296.431954,4.673807688
+Centro,Mexico,Lago De Guadalupe,1333.019742,3.461030938
+Centro,Mexico,Las Americas,1493.444285,3.568722566
+Centro,Mexico,Lerma Toluca,1669.549573,3.328177506
+Centro,Mexico,Lomas Verdes,1700.485005,1.812235284
+Centro,Mexico,Mario Colin,1349.122496,2.417382639
+Centro,Mexico,Metepec,1410.03722,4.36350868
+Centro,Mexico,Ojo De Agua,1291.466618,4.388576246
+Centro,Mexico,Periferico Cuautitlan,1336.719656,3.45336677
+Centro,Mexico,Perinorte,1325.854226,2.037613777
+Centro,Mexico,Pilares,1691.898469,4.466820372
+Centro,Mexico,Pirules,1405.4177,3.466084379
+Centro,Mexico,Portal Cuautitlan,1429.403957,2.84564443
+Centro,Mexico,Rio De Los Remedios,1279.813517,3.456087044
+Centro,Mexico,Santa Elena,1202.068832,2.737105878
+Centro,Mexico,Santa Maria,1282.626083,3.494003057
+Centro,Mexico,Santin,1454.329062,3.237744273
+Centro,Mexico,Satelite,1551.222285,2.252682866
+Centro,Mexico,Super Plaza Ecatepec,1317.045281,4.767277943
+Centro,Morelos,Averanda,1537.8559,3.122774145
+Centro,Morelos,Domingo Diez,1371.228497,2.90819023
+Centro,Morelos,Paraiso,1531.495022,4.514985317
+Centro,Puebla,Angelopolis,1509.794035,4.760235709
+Centro,Puebla,Ciudad Judicial,1609.220829,2.831555356
+Centro,Puebla,Las Animas,1365.88593,4.135970819
+Centro,Puebla,Plaza El Paseo,1730.395048,1.984733743
+Centro,Puebla,Puebla Reforma,1569.223251,4.463653382
+Centro,Puebla,San Manuel,1369.725083,2.9307044
+Centro,Tlaxcala,Tlaxcala Estadio,1374.85514,2.573770792
+Noreste,Nuevo Leon,Cerro De La Silla,1414.38921,3.761180709
+Noreste,Nuevo Leon,Cumbres Monterrey,1378.63339,3.596327985
+Noreste,Nuevo Leon,Gomez Morin,1674.546286,2.559310478
+Noreste,Nuevo Leon,La Fe,1413.991688,2.802793734
+Noreste,Nuevo Leon,La Huasteca,1331.099703,2.805820763
+Noreste,Nuevo Leon,Las Torres,1537.896561,3.134296408
+Noreste,Nuevo Leon,Miguel Aleman,1366.753324,4.187249952
+Noreste,Nuevo Leon,Paseo Real,1486.065711,2.676880984
+Noreste,Nuevo Leon,San Nicolas,1320.868404,2.869917636
+Noreste,Nuevo Leon,Sendero,1292.132016,3.344981839
+Noreste,Nuevo Leon,Valle Oriente,1318.030409,3.400075072
+Noreste,Tamaulipas,Las Adelitas,1348.010958,2.69625116
+Noreste,Tamaulipas,Tampico,1389.494137,3.159613254
+Noroeste,Baja California,Ensenada,1100.511704,4.462465509
+Noroeste,Baja California,Galerias Del Valle,1177.36009,3.660141335
+Noroeste,Baja California,Playas De Tijuana,1169.590473,2.942012162
+Noroeste,Baja California,Plaza San Pedro,1111.4749,4.174466714
+Noroeste,Baja California,Rosarito,1327.699999,7.581604161
+Noroeste,Baja California,Tijuana 2000,1382.772281,3.550935027
+Noroeste,Baja California,Tijuana Hipodromo,1266.424685,3.690519286
+Noroeste,Baja California Sur,Cabo San Lucas,1553.417915,2.976638892
+Noroeste,Baja California Sur,Cola De Ballena,1687.374444,2.1538755
+Noroeste,Baja California Sur,San Jose Del Cabo,1672.706783,3.730124741
+Noroeste,Sinaloa,Culiacan,1455.636807,3.999964475
+Noroeste,Sinaloa,Ejercito Mexicano,1167.240796,2.344211963
+Noroeste,Sinaloa,Los Mochis,1435.627009,2.32283412
+Noroeste,Sonora,Blvd Colosio,1454.048641,3.217253177
+Noroeste,Sonora,Blvd Morelos,1292.937702,2.795864144
+Noroeste,Sonora,Cd. Obregon,1634.50005,3.430299639
+Noroeste,Sonora,Guaymas,1736.667628,2.311200564
+Norte,Chihuahua,Cd.Juarez,1307.625348,4.291736945
+Norte,Chihuahua,Club De Golf,1384.539679,4.140050307
+Norte,Coahuila,Galerias Saltillo,1269.447035,3.346457437
+Norte,Coahuila,Harold Pape Monclova,1431.924158,2.226832843
+Norte,Coahuila,Torreon,1420.720588,3.708156471
+Norte,Durango,Durango,1244.451572,2.822554151
+Occidente,Colima,Colima Norte,1246.139548,2.058792818
+Occidente,Colima,Manzanillo,1667.296233,2.960099316
+Occidente,Colima,Tercer Anillo,1321.966635,2.331935808
+Occidente,Jalisco,Avila Camacho,1393.072576,2.777322935
+Occidente,Jalisco,Chapala Ajijic,1807.146153,4.012736297
+Occidente,Jalisco,El Pitillal,1559.280068,3.181201712
+Occidente,Jalisco,Jardines Del Sol,1292.377407,2.803552161
+Occidente,Jalisco,Lopez Mateos Sur,1433.152704,4.214150465
+Occidente,Jalisco,Niño Obrero,1365.988444,2.856523913
+Occidente,Jalisco,Patria,1671.458391,2.764238699
+Occidente,Jalisco,Revolucion,1299.643473,4.175892288
+Occidente,Jalisco,Tonala,1134.327887,4.340728893
+Occidente,Jalisco,Vallarta,1497.182993,2.178878551
+Occidente,Jalisco,Valle Real,1663.817051,2.377540511
+Occidente,Michoacan,Altozano,1474.960501,2.111718247
+Occidente,Michoacan,Lazaro Cardenas,1626.323878,2.520307058
+Occidente,Michoacan,Mil Cumbres,1434.20644,3.923919071
+Occidente,Michoacan,Morelia,1200.455937,2.868055136
+Occidente,Michoacan,Plaza Ana,1163.169517,2.801554929
+Occidente,Nayarit,Bahia De Banderas,1732.143425,3.697302708
+Occidente,Nayarit,Tepic,1335.804698,2.962495765
+Sureste,Campeche,Campeche,1268.381788,2.839803452
+Sureste,Quintana Roo,Cancun Labna,1377.416961,3.180881077
+Sureste,Quintana Roo,La Cruz,1511.560396,2.635293325
+Sureste,Quintana Roo,Playa Del Carmen,1819.049659,1.824778257
+Sureste,Quintana Roo,Poligono Sur,1473.521183,1.961857243
+Sureste,Tabasco,Blvd Ruiz Cortines,1519.616245,2.680717079
+Sureste,Veracruz,Cordoba,1900.958729,2.356477943
+Sureste,Veracruz,Plaza Del Valle,1746.956965,2.05559241
+Sureste,Veracruz,Veracruz,1392.408845,3.618205007
+Sureste,Veracruz,Xalapa Arco Sur,1496.064579,3.31305763
+Sureste,Yucatan,Merida Norte,1435.043309,3.782232147
+Sureste,Yucatan,Pensiones,1293.833629,3.768704331
+Sureste,Yucatan,Poligono,1416.125744,2.978214536
+Suroeste,Chiapas,Belisario Dominguez,1729.706898,3.126529027
+Suroeste,Chiapas,San Cristobal,2844.855337,2.952197002
+Suroeste,Guerrero,Acapulco,1807.541038,2.68213569
+Suroeste,Guerrero,Diamante,2134.428695,3.847103503
+Suroeste,Oaxaca,Macro Plaza Oaxaca,1460.500824,3.293008882

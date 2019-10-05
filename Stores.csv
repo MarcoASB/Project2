@@ -1,0 +1,278 @@
+,id_tienda,nombre_tienda,region,estado,ciudad,municipio,proto,long,lat,con_serv
+0,4156,Cola De Ballena,Noroeste,Baja California Sur,La Paz,La Paz,SPCT-112,-110.343084,24.118732,Sí
+1,1724,Los Reyes Pza Zumpango,Centro,Mexico,ZM del Valle de México,Zumpango,SPCT-127,-99.054728,19.78988,No
+2,5791,Zinacantepec,Centro,Mexico,ZM de Toluca,Zinacantepec,SPCT-112,-99.699316,19.287137,No
+3,1686,La Cima,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-112,-103.411119,20.744996,No
+4,3928,Guadalajara Parques,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-112,-103.449,20.659,No
+5,3055,Batan,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-112,-103.345083,20.719685,No
+6,3956,Calandrias Tesistan,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-90,-103.455404,20.776893,No
+7,2325,Colinas Del Padre,Bajio,Zacatecas,ZM de Zacatecas-Guadalupe,Zacatecas,SPCT-90,-102.590717,22.74878,No
+8,3893,Xalapa,Sureste,Veracruz,ZM de Xalapa,Xalapa,SPCT-112,-96.907407,19.54189,No
+9,2540,Victoria Centro,Noreste,Tamaulipas,Ciudad Victoria,Victoria,SPCT-112,-99.134833,23.740284,No
+10,4122,Playa Norte,Sureste,Veracruz,ZM de Veracruz,Veracruz,SPCT-127,-96.192137,19.213462,No
+11,1202,Horizonte,Centro,Mexico,ZM del Valle de México,Valle de Chalco Solidaridad,SPCT-127,-98.953462,19.2994,No
+12,2050,Uruapan,Occidente,Michoacan,Uruapan,Uruapan,SPCT-112,-102.037961,19.42556,No
+13,3127,Libramiento Norte,Suroeste,Chiapas,ZM de Tuxtla Gutiérrez,Tuxtla Gutiérrez,SPCT-112,-93.0767,16.7515,No
+14,2218,Tuxpan,Sureste,Veracruz,Túxpam de Rodríguez Cano,Tuxpan,SPCT-90,-97.433461,20.947793,No
+15,3622,La Rosita,Norte,Coahuila,ZM de La Laguna,Torreón,SPCT-112,-103.397353,25.507439,No
+16,3211,Independencia Torreon,Norte,Coahuila,ZM de La Laguna,Torreón,SPCT-112,-103.413819,25.576305,No
+17,3113,Nilo Lomas D L Pajaros,Occidente,Jalisco,ZM de Guadalajara,Tonalá,SPCT-112,-103.274609,20.639765,No
+18,2343,Toluca,Centro,Mexico,ZM de Toluca,Toluca,SPCT-127,-99.639369,19.280955,No
+19,5825,Alfredo Del Mazo,Centro,Mexico,ZM de Toluca,Toluca,SPCT-112,-99.634353,19.307819,No
+20,1169,Plaza Arboledas,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SPCT-127,-99.209048,19.546966,No
+21,2041,Toltecas,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SPCT-127,-99.192224,19.55499,No
+22,2023,Macroplaza Insurgentes,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-127,-116.934604,32.495736,No
+23,3664,Diaz Ordaz,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-112,-116.945,32.4882,No
+24,1616,Pacifico,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-90,-117.00021,32.474796,No
+25,4109,Puerta Texcoco,Centro,Mexico,ZM del Valle de México,Texcoco,SPCT-127,-98.91033,19.42904,No
+26,3257,Tepatitlan,Occidente,Jalisco,Tepatitlán de Morelos,Tepatitlán de Morelos,SPCT-90,-102.777901,20.808274,No
+27,1171,San Jose Tecamac,Centro,Mexico,ZM del Valle de México,Tecámac,SPCT-127,-98.980206,19.698952,No
+28,3016,Macro Plaza Heroes,Centro,Mexico,ZM del Valle de México,Tecámac,SPCT-127,-99.0396,19.617075,No
+29,4072,Tapachula Chiapas,Suroeste,Chiapas,Tapachula de Córdova y Ordóñez,Tapachula,SPCT-127,-92.283208,14.874482,No
+30,1902,Aeropuerto Tampico,Noreste,Tamaulipas,ZM de Tampico,Tampico,SPCT-112,-97.8799,22.297349,No
+31,1205,Alijadores,Noreste,Tamaulipas,ZM de Tampico,Tampico,SPCT-112,-97.867711,22.230357,No
+32,1119,Colon,Occidente,Jalisco,ZM de Guadalajara,San Pedro Tlaquepaque,SPCT-127,-103.400437,20.603601,No
+33,2075,Slp Muñoz,Bajio,San Luis Potosi,ZM de San Luis Potosí-Soledad de Graciano Sánchez,San Luis Potosí,SPCT-127,-100.999047,22.165865,No
+34,1682,Salvador Nava,Bajio,San Luis Potosi,ZM de San Luis Potosí-Soledad de Graciano Sánchez,San Luis Potosí,SPCT-112,-100.957514,22.142571,No
+35,2465,Saltillo,Norte,Coahuila,ZM de Saltillo,Saltillo,SPCT-127,-100.98,25.4243,No
+36,3929,Salina Cruz Ii,Suroeste,Oaxaca,ZM de Tehuantepec,Salina Cruz,SPCT-112,-95.208992,16.232143,No
+37,2541,Salamanca,Bajio,Guanajuato,Salamanca,Salamanca,SPCT-90,-101.184451,20.591588,No
+38,1550,Macroplaza Vallarta,Occidente,Jalisco,ZM de Puerto Vallarta,Puerto Vallarta,SPCT-127,-105.218992,20.64571,No
+39,2732,Hospital General,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-112,-98.2401,18.987,No
+40,1509,15 De Mayo,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-112,-98.224344,19.076741,No
+41,1326,Los Pinos Zaragoza,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-90,-98.175034,19.068815,No
+42,4120,Poza Rica,Sureste,Veracruz,ZM de Poza Rica,Poza Rica de Hidalgo,SPCT-112,-97.437533,20.568688,No
+43,2840,Insurgentes Chetumal,Sureste,Quintana Roo,Chetumal,Othón P. Blanco,SPCT-112,-88.281399,18.515097,No
+44,3506,Simbolos Patrios,Suroeste,Oaxaca,ZM de Oaxaca,Oaxaca de Juárez,SPCT-112,-96.714676,17.031448,No
+45,3091,Nuevo Laredo,Noreste,Tamaulipas,ZM de Nuevo Laredo,Nuevo Laredo,SPCT-112,-99.517997,27.444805,No
+46,2042,Greco Nogales,Noroeste,Sonora,Heroica Nogales,Nogales,SPCT-112,-110.941743,31.289308,No
+47,2643,Nicolas Romero,Centro,Mexico,ZM del Valle de México,Nicolás Romero,SPCT-127,-99.292183,19.627014,No
+48,3355,Estadio,Occidente,Michoacan,ZM de Morelia,Morelia,SPCT-112,-101.223603,19.728243,No
+49,3720,Lincoln,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.36972,25.730755,No
+50,3051,Plaza Centrika,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.308379,25.701121,No
+51,4137,Chapultepec,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.280615,25.665657,No
+52,2304,Mexicali,Noroeste,Baja California,ZM de Mexicali,Mexicali,SPCT-127,-115.455678,32.622652,No
+53,1617,Mexicali Novena,Noroeste,Baja California,ZM de Mexicali,Mexicali,SPCT-112,-115.385232,32.633963,No
+54,2383,Merida,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.616045,20.986177,No
+55,3555,Periferico Merida,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.6733,20.9968,No
+56,3253,Altabrisa,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.583038,21.011797,No
+57,2204,Marina Mazatlan,Noroeste,Sinaloa,Mazatlán,Mazatlán,SPCT-112,-106.445167,23.279118,No
+58,2080,Slp Arboledas,Bajio,San Luis Potosi,Matehuala,Matehuala,SPCT-90,-100.638629,23.657654,No
+59,3719,Matamoros,Noreste,Tamaulipas,ZM de Matamoros,Matamoros,SPCT-127,-97.519514,25.859434,No
+60,3745,Clouthier,Bajio,Guanajuato,ZM de Leon,León,SPCT-127,-101.691,21.1615,No
+61,5687,Boulevard Delta,Bajio,Guanajuato,ZM de Leon,León,SPCT-112,-101.609706,21.11033,No
+62,1974,Bosques De Renteria,Bajio,Guanajuato,ZM de Leon,León,SPCT-112,-101.64828,21.123415,No
+63,3198,Cerro Grande,Occidente,Michoacan,ZM de La Piedad-Pénjamo,La Piedad,SPCT-90,-102.051072,20.352701,No
+64,4138,Villa De Juarez,Noreste,Nuevo Leon,ZM de Monterrey,Juárez,SPCT-127,-100.11195,25.650201,No
+65,5764,Torres Del Sur,Norte,Chihuahua,ZM de Juárez,Juárez,SPCT-112,-106.393259,31.633547,No
+66,2049,Zaragoza,Norte,Chihuahua,ZM de Juárez,Juárez,SPCT-127,-106.442094,31.657191,No
+67,2089,Plaza Monumental,Norte,Chihuahua,ZM de Juárez,Juárez,SPCT-112,-106.443296,31.735283,No
+68,5727,Jiutepec,Centro,Morelos,ZM de Cuernavaca,Jiutepec,SPCT-127,-99.174767,18.901384,No
+69,3357,Irapuato Sur,Bajio,Guanajuato,Irapuato,Irapuato,SPCT-112,-101.342,20.6569,No
+70,2219,Huehuetoca Jorobas,Centro,Mexico,ZM del Valle de México,Huehuetoca,SPCT-127,-99.237985,19.841238,No
+71,1170,Parral,Norte,Chihuahua,Hidalgo del Parral,Hidalgo del Parral,SPCT-90,-105.65062,26.932382,No
+72,2303,Hermosillo,Noroeste,Sonora,Hermosillo,Hermosillo,SPCT-127,-110.968397,29.067377,No
+73,3746,Solidaridad,Noroeste,Sonora,Hermosillo,Hermosillo,SPCT-127,-110.994163,29.098279,No
+74,3794,Acueducto De Gpe.,Centro,Distrito Federal,ZM del Valle de México,Gustavo A. Madero,SPCT-127,-99.155984,19.530956,No
+75,1727,Sinaloa Guasave,Noroeste,Sinaloa,Guasave,Guasave,SPCT-90,-108.473664,25.581298,No
+76,3800,Guadalupe Nvo Leon,Noreste,Nuevo Leon,ZM de Monterrey,Guadalupe,SPCT-112,-100.20246,25.673208,No
+77,4548,Eloy Cavazos,Noreste,Nuevo Leon,ZM de Monterrey,Guadalupe,SPCT-127,-100.209612,25.652489,No
+78,4540,16 De Septiembre,Occidente,Jalisco,ZM de Guadalajara,Guadalajara,SPCT-127,-103.348319,20.664569,No
+79,2645,Escobedo Norte,Noreste,Nuevo Leon,ZM de Monterrey,General Escobedo,SPCT-112,-100.327269,25.793154,No
+80,2947,Ensenada Centro,Noroeste,Baja California,Ensenada,Ensenada,SPCT-112,-116.60934,31.868194,No
+81,3005,Plaza Aragon,Centro,Mexico,ZM del Valle de México,Ecatepec de Morelos,SPCT-127,-99.025142,19.53144,No
+82,3503,Ecatepec Centro,Centro,Mexico,ZM del Valle de México,Ecatepec de Morelos,SPCT-127,-99.04569,19.606576,No
+83,3014,Durango El Eden,Norte,Durango,Victoria de Durango,Durango,SPCT-112,-104.65224,24.004533,No
+84,3071,Francisco Villa,Norte,Durango,Victoria de Durango,Durango,SPCT-112,-104.611396,24.055876,No
+85,1138,Delicias,Norte,Chihuahua,Delicias,Delicias,SPCT-90,-105.465,28.1995,No
+86,5700,Mexico 68,Noroeste,Sinaloa,Culiacán Rosales,Culiacán,SPCT-127,-107.394943,24.779121,No
+87,1585,La Isla,Noroeste,Sinaloa,Culiacán Rosales,Culiacán,SPCT-112,-107.369267,24.824728,No
+88,4090,Los Atrios,Centro,Morelos,ZM de Cuautla,Cuautla,SPCT-127,-98.950247,18.869703,No
+89,1044,San Marcos Izcalli,Centro,Mexico,ZM del Valle de México,Cuautitlán Izcalli,SPCT-127,-99.204704,19.671394,No
+90,1834,Plaza Del Lago,Centro,Mexico,ZM del Valle de México,Cuautitlán Izcalli,SPCT-127,-99.223369,19.638361,No
+91,1623,Cuauhtemoc,Norte,Chihuahua,Cuauhtémoc,Cuauhtémoc,SPCT-90,-106.838229,28.401958,No
+92,2430,Copilco,Centro,Distrito Federal,ZM del Valle de México,Coyoacán,SPCT-112,-99.184163,19.33825,No
+93,2946,Pueblito,Bajio,Queretaro,ZM de Querétaro,Corregidora,SPCT-90,-100.434362,20.538672,No
+94,1624,Comitan,Suroeste,Chiapas,Comitán de Domínguez,Comitán de Domínguez,SPCT-112,-92.113754,16.217291,No
+95,3879,Colima,Occidente,Colima,ZM de Colima-Villa de Álvarez,Colima,SPCT-112,-103.715657,19.238524,No
+96,4024,Coatzacoalcos,Sureste,Veracruz,ZM de Coatzacoalcos,Coatzacoalcos,SPCT-112,-94.471722,18.139977,No
+97,3900,Coacalco,Centro,Mexico,ZM del Valle de México,Coacalco de Berriozábal,SPCT-112,-99.097339,19.636524,No
+98,4025,Cd Madero,Noreste,Tamaulipas,ZM de Tampico,Ciudad Madero,SPCT-112,-97.853,22.253,No
+99,3608,Playa Miramar,Noreste,Tamaulipas,ZM de Tampico,Ciudad Madero,SPCT-90,-97.842141,22.2775,No
+100,1684,Chilpancingo,Suroeste,Guerrero,Chilpancingo de los Bravo,Chilpancingo de los Bravo,SPCT-112,-99.489727,17.52569,No
+101,2302,Chihuahua,Norte,Chihuahua,ZM de Chihuahua,Chihuahua,SPCT-127,-106.119448,28.634379,No
+102,5728,Norte 2000,Norte,Chihuahua,ZM de Chihuahua,Chihuahua,SPCT-127,-106.129925,28.727456,No
+103,3033,Fuentes Mares,Norte,Chihuahua,ZM de Chihuahua,Chihuahua,SPCT-90,-106.028991,28.619029,No
+104,3358,Cordilleras,Norte,Chihuahua,ZM de Chihuahua,Chihuahua,SPCT-112,-106.139165,28.69789,No
+105,1683,Vicente Guerrero,Centro,Mexico,ZM del Valle de México,Chalco,SPCT-127,-98.8779,19.2614,No
+106,3894,Villahermosa I,Sureste,Tabasco,ZM de Villahermosa,Centro,SPCT-112,-92.924802,18.001408,No
+107,2468,Villahermosa Ii,Sureste,Tabasco,ZM de Villahermosa,Centro,SPCT-112,-92.940323,17.979231,No
+108,1031,Tabasco 2000,Sureste,Tabasco,ZM de Villahermosa,Centro,SPCT-112,-92.969055,17.989264,No
+109,2091,El Sauz Celaya,Bajio,Guanajuato,ZM de Celaya,Celaya,SPCT-127,-100.838554,20.548325,No
+110,1685,Aeropuerto Cd D Carmen,Sureste,Campeche,Ciudad del Carmen,Carmen,SPCT-112,-91.801969,18.646369,No
+111,3605,Combo Electricistas,Sureste,Campeche,San Francisco de Campeche,Campeche,SC-90,-90.544677,19.82416,No
+112,2646,Carr Inter Obregon,Noroeste,Sonora,Ciudad Obregón,Cajeme,SPCT-112,-109.926959,27.481438,No
+113,3632,Cancun Comancalco,Sureste,Quintana Roo,ZM de Cancún,Benito Juárez,SPCT-112,-86.860466,21.148529,No
+114,1084,Nichupte,Sureste,Quintana Roo,ZM de Cancún,Benito Juárez,SPCT-112,-86.852018,21.139791,No
+115,5855,Las Alamedas,Centro,Mexico,ZM del Valle de México,Atizapán de Zaragoza,SPCT-112,-99.244106,19.554627,No
+116,2731,El Molinito Tlaxcala,Centro,Tlaxcala,ZM de Tlaxcala-Apizaco,Apetatitlán de Antonio Carvajal,SPCT-112,-98.200198,19.34029,No
+117,1204,Mochis Sur,Noroeste,Sinaloa,Los Mochis,Ahome,SPCT-112,-109.002431,25.785758,No
+118,1549,Av De Los Maestros,Bajio,Aguascalientes,ZM de Aguascalientes,Aguascalientes,SPCT-112,-102.315,21.8586,No
+119,2271,Aguascalientes Oriente,Bajio,Aguascalientes,ZM de Aguascalientes,Aguascalientes,SPCT-112,-102.257988,21.882268,No
+120,2734,Plaza Ana,Occidente,Michoacan,ZM de Zamora-Jacona,Zamora,SPCT-90,-102.29519,19.975097,Sí
+121,3630,Las Adelitas,Noreste,Tamaulipas,Ciudad Victoria,Victoria,SPCT-112,-99.156511,23.752347,Sí
+122,5702,Santin,Centro,Mexico,ZM de Toluca,Toluca,SPCT-127,-99.59079,19.3511,Sí
+123,5469,Rio De Los Remedios,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SPCT-127,-99.116881,19.519076,Sí
+124,3895,Tepic,Occidente,Nayarit,ZM de Tepic,Tepic,SPCT-112,-104.881686,21.491529,Sí
+125,2648,Plaza El Paseo,Centro,Puebla,ZM de Tehuacán,Tehuacán,SPCT-112,-97.415364,18.467912,Sí
+126,1003,Playa Del Carmen,Sureste,Quintana Roo,Playa del Carmen,Solidaridad,SPCT-112,-87.076171,20.629277,Sí
+127,1804,Macro Plaza Oaxaca,Suroeste,Oaxaca,ZM de Oaxaca,Santa Lucía del Camino,SPCT-112,-96.69484,17.066971,Sí
+128,2074,Carretera 57,Bajio,San Luis Potosi,ZM de San Luis Potosí-Soledad de Graciano Sánchez,San Luis Potosí,SPCT-127,-100.934649,22.138534,Sí
+129,3945,Av Central,Bajio,Queretaro,San Juan del Río,San Juan del Río,SPCT-90,-99.982411,20.398643,Sí
+130,2374,Jardines Del Country,Bajio,Guanajuato,Salamanca,Salamanca,SC-90,-101.223937,20.583465,Sí
+131,4187,Rosarito,Noroeste,Baja California,ZM de Tijuana,Playas de Rosarito,SPCT-112,-117.058919,32.378427,Sí
+132,3241,Plaza Del Valle,Sureste,Veracruz,ZM de Orizaba,Orizaba,SPCT-112,-97.094811,18.862674,Sí
+133,2079,Cd Jardin,Centro,Mexico,ZM del Valle de México,Nezahualcóyotl,SPCT-127,-99.028924,19.425299,Sí
+134,2381,Morelia,Occidente,Michoacan,ZM de Morelia,Morelia,SPCT-127,-101.220271,19.679574,Sí
+135,1108,Altozano,Occidente,Michoacan,ZM de Morelia,Morelia,SPCT-112,-101.164118,19.669277,Sí
+136,3718,Ejercito Mexicano,Noroeste,Sinaloa,Mazatlán,Mazatlán,SPCT-112,-106.423796,23.244407,Sí
+137,2433,Leon Torres Landa,Bajio,Guanajuato,ZM de Leon,León,SPCT-127,-101.66,21.0983,Sí
+138,3356,Lazaro Cardenas,Occidente,Michoacan,Ciudad Lázaro Cárdenas,Lázaro Cárdenas,SPCT-112,-102.212659,17.978257,Sí
+139,1107,Ixtapaluca,Centro,Mexico,ZM del Valle de México,Ixtapaluca,SPCT-127,-98.8859,19.2992,Sí
+140,3030,Blvd Morelos,Noroeste,Sonora,Hermosillo,Hermosillo,SPCT-112,-110.949304,29.122137,Sí
+141,4036,Guaymas,Noroeste,Sonora,ZM de Guaymas,Guaymas,SPCT-112,-110.926232,27.935654,Sí
+142,1027,Sendero,Noreste,Nuevo Leon,ZM de Monterrey,General Escobedo,SPCT-90,-100.317288,25.766057,Sí
+143,3015,Ensenada,Noroeste,Baja California,Ensenada,Ensenada,SPCT-112,-116.600413,31.821381,Sí
+144,1423,Santa Elena,Centro,Mexico,ZM del Valle de México,Cuautitlán,SPCT-127,-99.148288,19.67732,Sí
+145,3031,Celaya Irrigacion,Bajio,Guanajuato,ZM de Celaya,Celaya,SPCT-127,-100.796933,20.534267,Sí
+146,4139,Campeche,Sureste,Campeche,San Francisco de Campeche,Campeche,SPCT-112,-90.5289,19.8524,Sí
+147,4549,Los Mochis,Noroeste,Sinaloa,Los Mochis,Ahome,SPCT-112,-108.99064,25.805814,Sí
+148,2211,Mahatma Gandhi,Bajio,Aguascalientes,ZM de Aguascalientes,Aguascalientes,SC-90,-102.296931,21.859721,Sí
+149,3872,Balbuena,Centro,Distrito Federal,ZM del Valle de México,Venustiano Carranza,SPCT-112,-99.105688,19.417472,Sí
+150,4619,Tlaxcala Estadio,Centro,Tlaxcala,ZM de Tlaxcala-Apizaco,Tlaxcala,SC-90,-98.229989,19.324699,Sí
+151,4191,Lago De Guadalupe,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SPCT-127,-99.211364,19.579328,Sí
+152,2356,Queretaro,Bajio,Queretaro,ZM de Querétaro,Querétaro,SPCT-127,-100.397597,20.615333,Sí
+153,1007,Harold Pape Monclova,Norte,Coahuila,ZM de Monclova-Frontera,Monclova,SPCT-90,-101.423985,26.908987,Sí
+154,1140,Plaza San Pedro,Noroeste,Baja California,ZM de Mexicali,Mexicali,SPCT-112,-115.414111,32.65759,Sí
+155,4026,Galerias Del Valle,Noroeste,Baja California,ZM de Mexicali,Mexicali,SPCT-112,-115.506628,32.621413,Sí
+156,4062,Manzanillo,Occidente,Colima,Manzanillo,Manzanillo,SPCT-112,-104.333666,19.103518,Sí
+157,2432,Durango,Norte,Durango,Victoria de Durango,Durango,SPCT-127,-104.653409,24.03652,Sí
+158,1403,Chapala Ajijic,Occidente,Jalisco,San Antonio Tlayacapan,Chapala,SPCT-90,-103.244472,20.29664,Sí
+159,1580,El Rosario,Centro,Distrito Federal,ZM del Valle de México,Azcapotzalco,SPCT-127,-99.204396,19.502639,Sí
+160,3878,Niño Obrero,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-112,-103.41,20.6668,Sí
+161,2342,Vallarta,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-127,-103.433081,20.67922,Sí
+162,3721,Avila Camacho,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-127,-103.375364,20.713868,Sí
+163,4012,Jardines Del Sol,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-127,-103.419294,20.649563,Sí
+164,4071,Patria,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-127,-103.415,20.7052,Sí
+165,2989,Valle Real,Occidente,Jalisco,ZM de Guadalajara,Zapopan,SPCT-112,-103.450744,20.729725,Sí
+166,4546,Zacatecas,Bajio,Zacatecas,ZM de Zacatecas-Guadalupe,Zacatecas,SPCT-112,-102.550853,22.762089,Sí
+167,2839,Xalapa Arco Sur,Sureste,Veracruz,ZM de Xalapa,Xalapa,SPCT-112,-96.881879,19.508967,Sí
+168,1512,Tercer Anillo,Occidente,Colima,ZM de Colima-Villa de Álvarez,Villa de Álvarez,SPCT-112,-103.730935,19.280852,Sí
+169,3851,Aeropuerto,Centro,Distrito Federal,ZM del Valle de México,Venustiano Carranza,SPCT-127,-99.093828,19.419601,Sí
+170,1130,Belisario Dominguez,Suroeste,Chiapas,ZM de Tuxtla Gutiérrez,Tuxtla Gutiérrez,SPCT-90,-93.136163,16.75333,Sí
+171,2375,Torreon,Norte,Coahuila,ZM de La Laguna,Torreón,SPCT-127,-103.423282,25.552137,Sí
+172,3631,Tonala,Occidente,Jalisco,ZM de Guadalajara,Tonalá,SPCT-127,-103.257387,20.627848,Sí
+173,1460,Cuemanco,Centro,Distrito Federal,ZM del Valle de México,Tlalpan,SPCT-127,-99.108649,19.294826,Sí
+174,2644,Patio Tlalpan,Centro,Distrito Federal,ZM del Valle de México,Tlalpan,SC-144,-99.176329,19.284504,Sí
+175,3854,Pirules,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SPCT-112,-99.213848,19.542913,Sí
+176,3511,Mario Colin,Centro,Mexico,ZM del Valle de México,Tlalnepantla de Baz,SC-112,-99.187567,19.535713,Sí
+177,1022,Lopez Mateos Sur,Occidente,Jalisco,ZM de Guadalajara,Tlajomulco de Zúñiga,SPCT-127,-103.442758,20.587614,Sí
+178,4155,Tijuana 2000,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-127,-116.847681,32.494047,Sí
+179,4011,Tijuana Hipodromo,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-112,-116.993,32.5082,Sí
+180,1613,Playas De Tijuana,Noroeste,Baja California,ZM de Tijuana,Tijuana,SPCT-90,-117.119004,32.528235,Sí
+181,1489,Hiperplaza Texcoco,Centro,Mexico,ZM del Valle de México,Texcoco,SPCT-127,-98.867845,19.515652,Sí
+182,3588,Paraiso,Centro,Morelos,ZM de Cuernavaca,Temixco,SPCT-112,-99.216263,18.83945,Sí
+183,3176,Ojo De Agua,Centro,Mexico,ZM del Valle de México,Tecámac,SPCT-127,-99.018545,19.659043,Sí
+184,2378,Tampico,Noreste,Tamaulipas,ZM de Tampico,Tampico,SPCT-127,-97.871513,22.271134,Sí
+185,2735,La Cruz,Sureste,Quintana Roo,Playa del Carmen,Solidaridad,SPCT-112,-87.081312,20.654042,Sí
+186,1139,La Huasteca,Noreste,Nuevo Leon,ZM de Monterrey,Santa Catarina,SPCT-90,-100.451056,25.675263,Sí
+187,1622,Gomez Morin,Noreste,Nuevo Leon,ZM de Monterrey,San Pedro Garza García,SPCT-112,-100.361461,25.644405,Sí
+188,2676,La Fe,Noreste,Nuevo Leon,ZM de Monterrey,San Nicolás de los Garza,SPCT-127,-100.220784,25.722447,Sí
+189,2179,San Nicolas,Noreste,Nuevo Leon,ZM de Monterrey,San Nicolás de los Garza,SPCT-112,-100.269517,25.769044,Sí
+190,2431,San Luis Potosi,Bajio,San Luis Potosi,ZM de San Luis Potosí-Soledad de Graciano Sánchez,San Luis Potosí,SPCT-127,-101.003007,22.137405,Sí
+191,2090,Angelopolis,Centro,Puebla,ZM de Puebla-Tlaxcala,San Andrés Cholula,SPCT-127,-98.2382,19.027573,Sí
+192,1801,Ciudad Judicial,Centro,Puebla,ZM de Puebla-Tlaxcala,San Andrés Cholula,SPCT-112,-98.263548,19.017493,Sí
+193,1404,Galerias Saltillo,Norte,Coahuila,ZM de Saltillo,Saltillo,SPCT-112,-100.981002,25.456897,Sí
+194,5749,Plaza De Toros,Bajio,Queretaro,ZM de Querétaro,Querétaro,SPCT-127,-100.409368,20.574103,Sí
+195,2733,Poniente Queretaro,Bajio,Queretaro,ZM de Querétaro,Querétaro,SPCT-112,-100.466,20.6293,Sí
+196,3586,Juriquilla,Bajio,Queretaro,ZM de Querétaro,Querétaro,SPCT-112,-100.432884,20.675971,Sí
+197,3747,El Pitillal,Occidente,Jalisco,ZM de Puerto Vallarta,Puerto Vallarta,SPCT-127,-105.238167,20.656394,Sí
+198,3853,San Manuel,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-112,-98.198307,19.019429,Sí
+199,3864,Puebla Reforma,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-112,-98.223853,19.057933,Sí
+200,3886,Las Animas,Centro,Puebla,ZM de Puebla-Tlaxcala,Puebla,SPCT-127,-98.236976,19.044997,Sí
+201,3061,Pachuca,Centro,Hidalgo,ZM de Pachuca,Pachuca de Soto,SPCT-127,-98.759893,20.091822,Sí
+202,3847,Satelite,Centro,Mexico,ZM del Valle de México,Naucalpan de Juárez,SPCT-112,-99.2311,19.5155,Sí
+203,3850,Echegaray,Centro,Mexico,ZM del Valle de México,Naucalpan de Juárez,SPCT-112,-99.232871,19.484682,Sí
+204,1032,Lomas Verdes,Centro,Mexico,ZM del Valle de México,Naucalpan de Juárez,SPCT-127,-99.26785,19.51599,Sí
+205,3554,Mil Cumbres,Occidente,Michoacan,ZM de Morelia,Morelia,SPCT-90,-101.149172,19.692605,Sí
+206,2034,Las Torres,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-127,-100.274384,25.615802,Sí
+207,2044,Valle Oriente,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.316431,25.639061,Sí
+208,3114,Cumbres Monterrey,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.393262,25.726724,Sí
+209,3239,Paseo Real,Noreste,Nuevo Leon,ZM de Monterrey,Monterrey,SPCT-112,-100.405345,25.76008,Sí
+210,2344,Toreo,Centro,Distrito Federal,ZM del Valle de México,Miguel Hidalgo,SPCT-127,-99.217789,19.450253,Sí
+211,3790,Metepec,Centro,Mexico,ZM de Toluca,Metepec,SPCT-112,-99.622794,19.25837,Sí
+212,3263,Pilares,Centro,Mexico,ZM de Toluca,Metepec,SPCT-112,-99.591298,19.285644,Sí
+213,4048,Pensiones,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.65527,20.994622,Sí
+214,4073,Poligono,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.575965,20.997687,Sí
+215,1016,Merida Norte,Sureste,Yucatan,ZM de Mérida,Mérida,SPCT-112,-89.604368,21.038733,Sí
+216,3069,Cabo San Lucas,Noroeste,Baja California Sur,El Tezal,Los Cabos,SPCT-127,-109.899258,22.903134,Sí
+217,2765,San Jose Del Cabo,Noroeste,Baja California Sur,San José del Cabo,Los Cabos,SPCT-112,-109.702278,23.053869,Sí
+218,1462,Lerma Toluca,Centro,Mexico,ZM de Toluca,Lerma,SPCT-112,-99.503465,19.282699,Sí
+219,1195,Galerias Las Torres,Bajio,Guanajuato,ZM de Leon,León,SPCT-112,-101.646523,21.147067,Sí
+220,1621,La Antorcha,Bajio,Guanajuato,ZM de Leon,León,SPCT-112,-101.732763,21.172075,Sí
+221,2448,Punta Del Este,Bajio,Guanajuato,ZM de Leon,León,SC-90,-101.607013,21.131902,Sí
+222,2377,Cd.Juarez,Norte,Chihuahua,ZM de Juárez,Juárez,SPCT-127,-106.418595,31.704679,Sí
+223,2033,Plaza Oriente,Centro,Distrito Federal,ZM del Valle de México,Iztapalapa,SPCT-127,-99.08048,19.384001,Sí
+224,2347,Tlahuac,Centro,Distrito Federal,ZM del Valle de México,Iztapalapa,SPCT-127,-99.059518,19.307922,Sí
+225,4628,Las Antenas,Centro,Distrito Federal,ZM del Valle de México,Iztapalapa,SC-90,-99.076161,19.314046,Sí
+226,1015,Irapuato,Bajio,Guanajuato,Irapuato,Irapuato,SPCT-112,-101.366574,20.683793,Sí
+227,2382,Interlomas,Centro,Mexico,ZM del Valle de México,Huixquilucan,SPCT-112,-99.274107,19.405671,Sí
+228,3504,Av Jesus Del Monte,Centro,Mexico,ZM del Valle de México,Huixquilucan,SPCT-127,-99.289084,19.398534,Sí
+229,2053,Blvd Colosio,Noroeste,Sonora,Hermosillo,Hermosillo,SPCT-112,-111.021716,29.082631,Sí
+230,3877,Torres Lindavista,Centro,Distrito Federal,ZM del Valle de México,Gustavo A. Madero,SPCT-112,-99.143551,19.506268,Sí
+231,2345,Tepeyac,Centro,Distrito Federal,ZM del Valle de México,Gustavo A. Madero,SPCT-127,-99.120707,19.472103,Sí
+232,4547,Plaza Eduardo Molina,Centro,Distrito Federal,ZM del Valle de México,Gustavo A. Madero,SPCT-127,-99.0957,19.4796,Sí
+233,2076,Miguel Aleman,Noreste,Nuevo Leon,ZM de Monterrey,Guadalupe,SPCT-127,-100.240048,25.691049,Sí
+234,1833,Cerro De La Silla,Noreste,Nuevo Leon,ZM de Monterrey,Guadalupe,SPCT-112,-100.241762,25.665568,Sí
+235,3861,Revolucion,Occidente,Jalisco,ZM de Guadalajara,Guadalajara,SPCT-112,-103.31009,20.648793,Sí
+236,3909,Cordoba,Sureste,Veracruz,ZM de Córdoba,Fortín,SPCT-112,-96.959626,18.902475,Sí
+237,5765,Las Americas,Centro,Mexico,ZM del Valle de México,Ecatepec de Morelos,SPCT-127,-99.022137,19.580031,Sí
+238,1203,Super Plaza Ecatepec,Centro,Mexico,ZM del Valle de México,Ecatepec de Morelos,SPCT-127,-99.019212,19.557934,Sí
+239,2379,Culiacan,Noroeste,Sinaloa,Culiacán Rosales,Culiacán,SPCT-127,-107.409212,24.814763,Sí
+240,1045,Domingo Diez,Centro,Morelos,ZM de Cuernavaca,Cuernavaca,SPCT-112,-99.237813,18.956004,Sí
+241,2446,Averanda,Centro,Morelos,ZM de Cuernavaca,Cuernavaca,SC-70,-99.197333,18.933541,Sí
+242,4157,Periferico Cuautitlan,Centro,Mexico,ZM del Valle de México,Cuautitlán Izcalli,SPCT-127,-99.194744,19.646802,Sí
+243,4154,Perinorte,Centro,Mexico,ZM del Valle de México,Cuautitlán Izcalli,SPCT-127,-99.187627,19.605325,Sí
+244,2284,Portal Cuautitlan,Centro,Mexico,ZM del Valle de México,Cuautitlán Izcalli,SPCT-112,-99.225021,19.688806,Sí
+245,3846,Buenavista,Centro,Distrito Federal,ZM del Valle de México,Cuauhtémoc,SPCT-127,-99.153082,19.443515,Sí
+246,1513,Portal Centro,Centro,Distrito Federal,ZM del Valle de México,Cuauhtémoc,SC-144,-99.130651,19.419428,Sí
+247,3858,Cuajimalpa,Centro,Distrito Federal,ZM del Valle de México,Cuajimalpa de Morelos,SPCT-112,-99.288704,19.364323,Sí
+248,3848,Taxqueña,Centro,Distrito Federal,ZM del Valle de México,Coyoacán,SPCT-127,-99.182582,19.345195,Sí
+249,3863,Periferico Sur,Centro,Distrito Federal,ZM del Valle de México,Coyoacán,SPCT-112,-99.187261,19.306272,Sí
+250,2464,Miramontes,Centro,Distrito Federal,ZM del Valle de México,Coyoacán,SPCT-127,-99.1255,19.317789,Sí
+251,1054,Colima Norte,Occidente,Colima,ZM de Colima-Villa de Álvarez,Colima,SPCT-112,-103.720535,19.257343,Sí
+252,4018,Santa Maria,Centro,Mexico,ZM del Valle de México,Coacalco de Berriozábal,SPCT-127,-99.12381,19.62997,Sí
+253,1656,Club De Golf,Norte,Chihuahua,ZM de Chihuahua,Chihuahua,SPCT-62,-106.130459,28.665604,Sí
+254,3293,Blvd Ruiz Cortines,Sureste,Tabasco,ZM de Villahermosa,Centro,SPCT-112,-92.946,17.9921,Sí
+255,2380,Cd. Obregon,Noroeste,Sonora,Ciudad Obregón,Cajeme,SPCT-127,-109.928448,27.516563,Sí
+256,2463,Veracruz,Sureste,Veracruz,ZM de Veracruz,Boca del Río,SPCT-127,-96.112189,19.156554,Sí
+257,3845,Universidad,Centro,Distrito Federal,ZM del Valle de México,Benito Juárez,SPCT-112,-99.164148,19.368587,Sí
+258,2670,Tlalpan,Centro,Distrito Federal,ZM del Valle de México,Benito Juárez,SPCT-127,-99.141224,19.380229,Sí
+259,2689,Felix Cuevas,Centro,Distrito Federal,ZM del Valle de México,Benito Juárez,SPCT-112,-99.176311,19.371627,Sí
+260,2384,Cancun Labna,Sureste,Quintana Roo,ZM de Cancún,Benito Juárez,SPCT-127,-86.833692,21.154319,Sí
+261,3505,Poligono Sur,Sureste,Quintana Roo,ZM de Cancún,Benito Juárez,SPCT-112,-86.875835,21.125694,Sí
+262,1425,Bahia De Banderas,Occidente,Nayarit,ZM de Puerto Vallarta,Bahía de Banderas,SPCT-127,-105.277745,20.722282,Sí
+263,3862,Azcapotzalco,Centro,Distrito Federal,ZM del Valle de México,Azcapotzalco,SPCT-127,-99.192469,19.472928,Sí
+264,2466,Cuitlahuac,Centro,Distrito Federal,ZM del Valle de México,Azcapotzalco,SPCT-127,-99.164282,19.471133,Sí
+265,1584,Espacio Esmeralda,Centro,Mexico,ZM del Valle de México,Atizapán de Zaragoza,SPCT-112,-99.290336,19.552911,Sí
+266,3852,Plateros,Centro,Distrito Federal,ZM del Valle de México,Álvaro Obregón,SPCT-112,-99.194069,19.36974,Sí
+267,3876,Las Aguilas,Centro,Distrito Federal,ZM del Valle de México,Álvaro Obregón,SPCT-112,-99.215397,19.352766,Sí
+268,1770,Patio Santa Fe,Centro,Distrito Federal,ZM del Valle de México,Álvaro Obregón,SPCT-127,-99.254174,19.377912,Sí
+269,1083,Portal San Angel,Centro,Distrito Federal,ZM del Valle de México,Álvaro Obregón,SC-144,-99.190687,19.361265,Sí
+270,2346,Aguascalientes,Bajio,Aguascalientes,ZM de Aguascalientes,Aguascalientes,SPCT-127,-102.295685,21.923979,Sí
+271,2349,Acapulco,Suroeste,Guerrero,ZM de Acapulco,Acapulco de Juárez,SPCT-127,-99.847305,16.844695,Sí
+272,1067,Diamante,Suroeste,Guerrero,ZM de Acapulco,Acapulco de Juárez,SPCT-127,-99.809303,16.797157,Sí
+273,3533,Punto Guadiana,Norte,Durango,Victoria de Durango,Durango,SC - 90,-0.104691,0.24013,Sí
+274,4719,San Cristobal,Suroeste,Chiapas,San Cristobal de las Casas,San Cristobal de las Casas,SC - 90,-92.660128,16.744379,Sí
+275,3857,Villa Coapa,Centro,Distrito Federal,ZM del Valle de México,Tlalpan,SC-112,-99.123779,19.292962,Sí
+276,383,Puerta Tlatelolco,Centro,Distrito Federal,ZM del Valle de México,Cuahutémoc,SC-70,-99.142341,19.456436,Sí
