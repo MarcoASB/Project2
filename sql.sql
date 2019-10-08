@@ -1,8 +1,8 @@
-DROP TABLE orders
+DROP TABLE orders;
 DROP TABLE stores
 
 CREATE TABLE orders (
-folio INT,
+folio INT PRIMARY KEY,
 id_tipo TEXT,
 Estatus TEXT,
 ID_Tienda INT,
@@ -12,7 +12,7 @@ Estado TEXT,
 Ciudad TEXT,
 Fin_de_cap DATE,
 Fecha_entr DATE, 
-Hora_ent INT,
+Hora_entr INT,
 Dia_sem TEXT,
 mes INT,
 Venta_Neta FLOAT, 
@@ -23,7 +23,7 @@ Con_Serv TEXT
 );
 
 CREATE TABLE stores (
-id_tienda INT,
+id_tienda INT PRIMARY KEY,
 nombre_tienda TEXT,
 region TEXT, 
 estado TEXT, 
